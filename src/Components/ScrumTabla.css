@@ -1,0 +1,51 @@
+.scrum-section {
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  padding: 25px;
+  margin-bottom: 40px;
+}
+
+.section-title {
+  font-size: 22px;
+  font-weight: 600;
+  color: #2c3e50;
+  text-align: center;
+  margin-bottom: 20px;
+  border-bottom: 3px solid #27ae60;
+  display: inline-block;
+  padding-bottom: 6px;
+}
+
+.table-wrapper {
+  overflow-x: auto;
+}
+
+.custom-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #fbfbfb;
+}
+
+.custom-table th,
+.custom-table td {
+  border: 1px solid #ddd;
+  padding: 12px 15px;
+  text-align: left;
+}
+
+.custom-table th {
+  background-color: #27ae60;
+  color: white;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+.custom-table tr:nth-child(even) {
+  background-color: #f4f4f4;
+}
+
+.custom-table tr:hover {
+  background-color: #eafbea;
+  transition: 0.3s;
+}
