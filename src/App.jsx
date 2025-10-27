@@ -19,6 +19,7 @@ const App = () => {
         <p className="text-lg text-gray-600">
           Objetivo: Garantizar Rentabilidad, Calidad y Tiempo.
         </p>
+        <span className="text-black"><a className="text-amber-300 hover:text-amber-950 " href="https://github.com/kevin15042005/Desyauno.git">Link github codigo:</a></span>
       </header>
 
       {/* Main */}
